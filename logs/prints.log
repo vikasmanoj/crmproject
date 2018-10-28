@@ -1,0 +1,5 @@
+22:34:50.649 [main] INFO  org.jsoup.Connection$Base - Driver is Intialized
+22:34:51.016 [main] INFO  org.jsoup.Connection$Base - Feature Bar title validated
+22:34:51.122 [main] INFO  org.jsoup.Connection$Base - Pricing Bar title validated
+22:34:51.236 [main] INFO  org.jsoup.Connection$Base - Contact Bar title validated
+22:34:51.345 [main] INFO  org.jsoup.Connection$Base - Customers Bar title validated
